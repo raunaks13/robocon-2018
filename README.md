@@ -6,7 +6,7 @@ This repository contains code written for the Robocon 2018 Summer Project.
 
 **Line Following** and **Vision Following** contain image processing code for line following and cross detection with mecanum wheels
 
-**docs** contains basic documentation prepared for mid-term evaluation
+**docs** contains basic documentation prepared for evaluation
 
 **catkin_ws** contains packages **arduino** and **process_image** for integrating all the locomotion code with ROS and running through an arduino
 
