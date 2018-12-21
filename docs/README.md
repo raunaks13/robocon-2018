@@ -1,3 +1,3 @@
 ## Documentation
 
-*robocon-report* contains the mid-term evaluation report we created halfway through the project's timeline.
+**robocon-report.pdf** contains the mid-term evaluation report created halfway through the project's timeline.
